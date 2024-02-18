@@ -1,4 +1,4 @@
-# Monitor Proxmox with Glances
+# Guide: Monitor Proxmox with Glances
 
 1. `rm -rf /usr/lib/python3.*/EXTERNALLY-MANAGED`
 2. `curl -L https://raw.githubusercontent.com/nicolargo/glancesautoinstall/master/install.sh | /bin/bash`
